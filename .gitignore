@@ -1,0 +1,82 @@
+# ---------------------------------------------------------------
+# Unreal Engine generated directories
+# ---------------------------------------------------------------
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+Platforms/*/Binaries/
+Platforms/*/Build/
+Platforms/*/Intermediate/
+
+# ---------------------------------------------------------------
+# Generated project / IDE files
+# ---------------------------------------------------------------
+*.sln
+*.suo
+*.sdf
+*.opensdf
+*.opendb
+*.VC.db
+*.VC.opendb
+*.xcodeproj/
+*.xcworkspace/
+.vs/
+.vsconfig
+.idea/
+.vscode/
+*.code-workspace
+UpgradeLog*.htm
+Backup/
+
+# ---------------------------------------------------------------
+# Baked lighting / build data (regenerate with Build Lighting)
+# ---------------------------------------------------------------
+*_BuiltData.uasset
+
+# ---------------------------------------------------------------
+# Recorded experiment output.
+# Runs are written to Saved/SimulatorRuns/ and are distributed
+# separately as an archival dataset -- never commit them here.
+# ---------------------------------------------------------------
+SimulatorRuns/
+*.csv
+*.log
+
+# ---------------------------------------------------------------
+# Third-party Marketplace / Fab content.
+# These packs are NOT redistributed. Install them yourself into
+# Content/ as described in THIRD_PARTY_ASSETS.md.
+# ---------------------------------------------------------------
+Content/Quadcopters/
+Content/Asian_town/
+Content/ChineseCity/
+Content/SeyeonjeongPavilion/
+Content/MWLandscapeAutoMaterial/
+Content/DynamicMeshCreator/
+Content/Downtown_West/
+Content/Gothic_Cathedral/
+Content/UtopianCity/
+Content/StarterContent/
+Content/Collections/
+Content/Developers/
+Plugins/
+
+# ---------------------------------------------------------------
+# Large media / archives
+# ---------------------------------------------------------------
+*.mp4
+*.avi
+*.mov
+*.zip
+*.7z
+*.rar
+*.tar.gz
+
+# ---------------------------------------------------------------
+# OS junk
+# ---------------------------------------------------------------
+.DS_Store
+Thumbs.db
+desktop.ini

@@ -1,0 +1,20 @@
+# Unreal binary assets. Marked binary so Git never attempts line-ending
+# conversion or textual diffs on them.
+#
+# NOTE: Git LFS is deliberately NOT used. The committed assets are small
+# (largest file ~36 MB, repository ~225 MB), and avoiding LFS keeps the
+# repository clonable by anyone without consuming LFS bandwidth quota --
+# which matters for a long-lived archival research artifact.
+*.uasset binary
+*.umap   binary
+*.png    binary
+*.fbx    binary
+*.wav    binary
+
+# Normalise line endings for text we author.
+*.cpp text eol=lf
+*.h   text eol=lf
+*.cs  text eol=lf
+*.md  text eol=lf
+*.ini text eol=crlf
+*.uproject text eol=lf

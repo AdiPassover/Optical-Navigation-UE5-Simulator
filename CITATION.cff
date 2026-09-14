@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this simulator in academic work, please cite it as below."
+title: "Optical Navigation UE5 Simulator"
+abstract: >-
+  An Unreal Engine 5 simulator for vision-based / optical UAV navigation
+  research. Flies a simulated quadcopter along scripted spline paths while
+  recording nadir imagery with dense 6-DoF ground truth, north- and
+  west-facing skyline imagery with derived binary sky masks, and a per-run
+  manifest of coordinate conventions, camera calibration and environment
+  configuration.
+type: software
+authors:
+  - family-names: "Passover"
+    given-names: "Adi"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"   # TODO: add ORCID
+    # affiliation: ""                                   # TODO: add affiliation
+repository-code: "https://github.com/AdiPassover/Optical-Navigation-UE5-Simulator"
+license: MIT
+keywords:
+  - unreal-engine
+  - uav
+  - drone
+  - optical-navigation
+  - visual-odometry
+  - synthetic-data
+  - simulation
+# TODO: set to the year of first public release if different.
+date-released: 2026-09-14
+
+# TODO: once the thesis is published, add it here as the preferred citation:
+# preferred-citation:
+#   type: thesis
+#   title: ""
+#   authors:
+#     - family-names: "Passover"
+#       given-names: "Adi"
+#   thesis-type: "Master's thesis"
+#   institution:
+#     name: ""
+#   year:
+#   doi: ""
