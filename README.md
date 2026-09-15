@@ -24,6 +24,29 @@ deterministic and reproducible.
 
 ---
 
+## Environments
+
+Captured in-engine from the simulator. Each filename records the environment
+preset the shot was taken under, which is the same `time_of_day` / `clouds`
+configuration written into every run's `settings.json`.
+
+![The asian_village_hills_background level at dusk under cloudy skies](docs/images/asian_village_hills_background_dusk_cloudy.jpg)
+<p align="center"><em><code>asian_village_hills_background</code> — dusk, cloudy</em></p>
+
+![The large_flat_city level at dawn under clear skies](docs/images/large_flat_city_dawn_clear.jpg)
+<p align="center"><em><code>large_flat_city</code> — dawn, clear</em></p>
+
+![The mountains level in daylight under heavy cloud](docs/images/mountains_day_very_cloudy.jpg)
+<p align="center"><em><code>mountains</code> — day, very cloudy. Terrain generated from the heightmaps in <code>Resources/Heightmaps/</code>.</em></p>
+
+> These are rendered screenshots, not redistributable assets. The environment
+> art and landscape material they depict are third-party works shown here for
+> illustration; they remain the property of their respective creators and are
+> not included in this repository. See
+> [THIRD_PARTY_ASSETS.md](THIRD_PARTY_ASSETS.md).
+
+---
+
 ## 1. What this simulator does
 
 | Capability | Implementation |

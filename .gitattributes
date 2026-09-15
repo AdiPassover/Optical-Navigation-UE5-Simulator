@@ -8,6 +8,7 @@
 *.uasset binary
 *.umap   binary
 *.png    binary
+*.jpg    binary
 *.fbx    binary
 *.wav    binary
 

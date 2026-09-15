@@ -107,6 +107,20 @@ record; you do not need them to reproduce the experiments.
 
 ---
 
+## Screenshots
+
+The images under `docs/images/` are rendered screenshots of the simulator in
+use. Several of them depict third-party environment art and the landscape
+auto-material listed above.
+
+They are included as illustrations of this project's output — the same way a
+screenshot would appear in a thesis figure or a project page. They are flat
+rendered frames from which no asset can be extracted or reused, and publishing
+them grants no rights whatsoever to the underlying assets, which remain the
+property of their respective creators under their own licenses. Anyone wanting
+to use those assets must obtain them from the original source as described
+above.
+
 ## Engine
 
 Unreal Engine 5.4 is required but is not distributed here. It is governed by
