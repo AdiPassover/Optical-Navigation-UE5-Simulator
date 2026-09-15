@@ -10,7 +10,7 @@ abstract: >-
   configuration.
 type: software
 authors:
-  - family-names: "Passover"
+  - family-names: "Peisach"
     given-names: "Adi"
     # orcid: "https://orcid.org/0000-0000-0000-0000"   # TODO: add ORCID
     # affiliation: ""                                   # TODO: add affiliation
@@ -32,7 +32,7 @@ date-released: 2026-09-14
 #   type: thesis
 #   title: ""
 #   authors:
-#     - family-names: "Passover"
+#     - family-names: "Peisach"
 #       given-names: "Adi"
 #   thesis-type: "Master's thesis"
 #   institution:

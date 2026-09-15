@@ -258,8 +258,8 @@ If you use this simulator in academic work, please cite it. Machine-readable
 metadata is in [CITATION.cff](CITATION.cff).
 
 ```bibtex
-@software{passover_optical_navigation_ue5_simulator,
-  author  = {Passover, Adi},
+@software{peisach_optical_navigation_ue5_simulator,
+  author  = {Peisach, Adi},
   title   = {Optical Navigation UE5 Simulator},
   url     = {https://github.com/AdiPassover/Optical-Navigation-UE5-Simulator},
   year    = {2026}
