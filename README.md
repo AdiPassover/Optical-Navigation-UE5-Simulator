@@ -14,7 +14,7 @@ environment while a fixed camera rig records:
   calibration, environment settings and path configuration the run was
   produced under.
 
-Everything runs at a fixed 60 Hz timestep so that recorded timing is
+Everything runs at a fixed 60 Hz timestep so that recorded timing stay
 deterministic and reproducible.
 
 > **Scope.** This repository contains the simulator — code, Blueprints, levels,
